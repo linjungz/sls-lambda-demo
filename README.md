@@ -1,5 +1,6 @@
-# 一个非常简单的Demo，演示如何使用 Serverless Framework来部署 AWS API Gateway + Lambda
+# Deploying AWS API Gateway/Lambda using Serverless Framework
 
+一个非常简单的Demo，演示如何使用 Serverless Framework来部署 AWS API Gateway + Lambda
 
 ### 安装
 
