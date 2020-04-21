@@ -1,0 +1,10 @@
+{
+  "name": "sls-lambda-python3",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless": "^1.67.3",
+    "serverless-offline": "^6.1.4"
+  }
+}
